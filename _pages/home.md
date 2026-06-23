@@ -57,7 +57,7 @@ To achieve these goals, we . We want to .
 
 We are currently.
 
-**We are looking for passionate new PhD students, Postdocs, and MPhil students to join the team** [(more info)](https://erik-clark.github.io/vacancies)) **!**
+**We are looking for new PhD students, Postdocs, and MPhil students to join the team** [(more info)](https://erik-clark.github.io/vacancies)) **!**
 
 
 <figure class="fifth">
