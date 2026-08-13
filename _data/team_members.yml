@@ -34,7 +34,8 @@
   info: bio here
   email: mmz27@cam.ac.uk
 
-- name: "This could be you !"
+- name: This could be you!
   photo: silhouette.jpg
-  role: ???
-  info: See [(openings)]({{ site.url }}{{ site.baseurl }}/vacancies) for more info.
+  role: Our next team member
+  info: See [lab openings]({{ site.url }}{{ site.baseurl }}/vacancies) for more info.
+  email: ec491@cam.ac.uk
