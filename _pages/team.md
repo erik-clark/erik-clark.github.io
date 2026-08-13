@@ -47,7 +47,6 @@ Jump to [current lab members](#team), [lab alumni](#lab alumni), [undergraduate 
 {% for member in site.data.alumni_undergraduates %}
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="12.5%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.role }}</i>
   <br><b>Next destination:</b> {{ member.next_destination }}
