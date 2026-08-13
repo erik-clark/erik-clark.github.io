@@ -5,37 +5,37 @@
   email: ec491@cam.ac.uk
 
 - name: Margherita Battistara
-  photo: photo.jpg
+  photo: silhouette.jpg
   role: Postdoc
   info: bio here
   email: mb2258@cam.ac.uk
 
 - name: Matt French
-  photo: photo.jpg
+  photo: silhouette.jpg
   role: Postdoc
   info: bio here
   email: mf836@cam.ac.uk
 
 - name: James Hammond
-  photo: photo.jpg
+  photo: silhouette.jpg
   role: Postdoc
   info: bio here
   email: jh2046@cam.ac.uk
   
 - name: Tom Pettini
-  photo: photo.jpg
+  photo: silhouette.jpg
   role: Postdoc
   info: bio here
   email: tp526@cam.ac.uk
 
 - name: Maciek Żurowski
-  photo: photo.jpg
+  photo: silhouette.jpg
   role: PhD student
   info: bio here
   email: mmz27@cam.ac.uk
 
 - name: This could be you!
   photo: silhouette.jpg
-  role: Our next team member
+  role: Newest member of the team
   info: See [lab openings]({{ site.url }}{{ site.baseurl }}/vacancies) for more info.
   email: ec491@cam.ac.uk
