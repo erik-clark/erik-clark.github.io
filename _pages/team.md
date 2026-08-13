@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master's students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [current lab members](#team), [lab alumni](#lab alumni), [undergraduate alumni](#undergraduate alumni).
+Jump to [current lab members](#team), [lab alumni](#"lab alumni"), [undergraduate alumni](#"undergraduate alumni").
 
 ## Team
 {% for member in site.data.team_members %}
@@ -27,7 +27,7 @@ Jump to [current lab members](#team), [lab alumni](#lab alumni), [undergraduate 
 {% endfor %}
 
 
-## Lab Alumni
+## "Lab Alumni"
 
 {% for member in site.data.alumni_members %}
 
@@ -42,7 +42,7 @@ Jump to [current lab members](#team), [lab alumni](#lab alumni), [undergraduate 
 {% endfor %}
 
 
-## Undergraduate Alumni
+## "Undergraduate Alumni"
 
 {% for member in site.data.alumni_undergraduates %}
 
