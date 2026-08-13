@@ -1,21 +1,17 @@
-- name: Name Here
-  photo: photo.jpg
-  info: Position + info
-  email: email address
-  number_educ: 2
-  education1: Education info, University of Place
-  education2: PhD info
+- name: Erik Clark
+  photo: silhouette.jpg
+  role: Group Leader
+  info: Some info about me here.
+  email: ec491@:cam.ac.uk
 
 - name: 2nd name here
   photo: photo.jpg
+  role: Postdoc
   info: info here
   email: email address
-  number_educ: 2
-  education1: PhD with person, place University
-  education2: BSc place 2
 
 - name: "This could be you !"
   photo: silhouette.jpg
+  role: ???
   info: See openings link for more info
   email: email
-  number_educ: 0
