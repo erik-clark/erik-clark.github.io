@@ -21,7 +21,7 @@ Jump to [current lab members](#team), [lab alumni](#lab alumni), [undergraduate 
   <h4>{{ member.name }}</h4>
   <i>{{ member.role }}</i>
   <br>{{ member.info }}
-  <br>contact: <{{ member.email }}></i>
+  <br>contact: <{{ member.email }}>
 </div>
 
 {% endfor %}
@@ -36,7 +36,7 @@ Jump to [current lab members](#team), [lab alumni](#lab alumni), [undergraduate 
   <h4>{{ member.name }}</h4>
   <i>{{ member.role }}</i>
   <br>{{ member.info }}
-  <br>{{ member.next_destination }}
+  <br><b>Next destination:</b> {{ member.next_destination }}
 </div>
 
 {% endfor %}
@@ -50,7 +50,7 @@ Jump to [current lab members](#team), [lab alumni](#lab alumni), [undergraduate 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="12.5%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.role }}</i>
-  <br>{{ member.next_destination }}
+  <br><b>Next destination:</b> {{ member.next_destination }}
 </div>
 
 {% endfor %}
