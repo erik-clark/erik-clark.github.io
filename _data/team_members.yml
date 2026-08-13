@@ -2,16 +2,39 @@
   photo: silhouette.jpg
   role: Group Leader
   info: Some info about me here.
-  email: ec491@:cam.ac.uk
+  email: ec491@cam.ac.uk
 
-- name: 2nd name here
+- name: Margherita Battistara
   photo: photo.jpg
   role: Postdoc
-  info: info here
-  email: email address
+  info: bio here
+  email: mb2258@cam.ac.uk
+
+- name: Matt French
+  photo: photo.jpg
+  role: Postdoc
+  info: bio here
+  email: mf836@cam.ac.uk
+
+- name: James Hammond
+  photo: photo.jpg
+  role: Postdoc
+  info: bio here
+  email: jh2046@cam.ac.uk
+  
+- name: Tom Pettini
+  photo: photo.jpg
+  role: Postdoc
+  info: bio here
+  email: tp526@cam.ac.uk
+
+- name: Maciek Żurowski
+  photo: photo.jpg
+  role: PhD student
+  info: bio here
+  email: mmz27@cam.ac.uk
 
 - name: "This could be you !"
   photo: silhouette.jpg
   role: ???
-  info: See openings link for more info
-  email: email
+  info: See [(openings)]({{ site.url }}{{ site.baseurl }}/vacancies) for more info.
