@@ -6,14 +6,14 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+<h1>Group Members</h1>
 
  **We are  looking for new PhD students, Postdocs, and Master's students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [current lab members](#team), [lab alumni](#"lab alumni"), [undergraduate alumni](#"undergraduate alumni").
+Jump to [current lab members](#team), [lab alumni](#lab_alumni), [undergraduate alumni](#undergrad_alumni).
 
-## Team
+<h2 id="team">Team</h2>
 {% for member in site.data.team_members %}
 
 <div class="row">
@@ -28,7 +28,7 @@ Jump to [current lab members](#team), [lab alumni](#"lab alumni"), [undergraduat
 <br><br>
 
 
-## "Lab Alumni"
+<h2 id="lab_alumni">Lab Alumni</h2>
 
 {% for member in site.data.alumni_members %}
 
@@ -44,7 +44,7 @@ Jump to [current lab members](#team), [lab alumni](#"lab alumni"), [undergraduat
 <br><br>
 
 
-## "Undergraduate Alumni"
+<h2 id="undergrad_alumni">Undergraduate Alumni</h2>
 
 {% for member in site.data.alumni_undergraduates %}
 
