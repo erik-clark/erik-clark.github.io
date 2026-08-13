@@ -25,6 +25,7 @@ Jump to [current lab members](#team), [lab alumni](#"lab alumni"), [undergraduat
 </div>
 
 {% endfor %}
+<br><br>
 
 
 ## "Lab Alumni"
@@ -40,6 +41,7 @@ Jump to [current lab members](#team), [lab alumni](#"lab alumni"), [undergraduat
 </div>
 
 {% endfor %}
+<br><br>
 
 
 ## "Undergraduate Alumni"
