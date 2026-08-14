@@ -10,6 +10,11 @@ permalink: /vacancies
 
 Please feel free to [contact me](ec491@cam.ac.uk) if you would like to discuss future project ideas and funding opportunities. 
 
+
+### Applications for Postdoc positions
+If you think your interests are a good fit for the lab, feel free to [email me](ec491@cam.ac.uk) with an informal expression of interest. You should include a description of what you are working on in the moment, what you are looking for in a postdoc, and a copy of your CV. I might have funding available or be able to apply for some, or I could help you develop a project idea for an externally funded Fellowship application (e.g. EMBO, Marie-Curie, HFSP). There are various funding possibilities, but most of them involve planning well ahead. Therefore, it's best to contact me early on - don't feel as though you need to have your PhD papers out before getting in touch.
+
+
 ### Prospective PhD students
 We are currently recruiting PhD applicants for October 2027 entry. If you are interested in applying, please send me a non-generic email describing your scientific interests and what you are looking for in a PhD. It doesn't need to be long or formal, but it <i>should</i> read as though you wrote it yourself. Please attach a copy of your CV and (if possible) your academic transcript.
 
@@ -25,6 +30,7 @@ Please see the information on the pages below:
 
 [General guidance for applying for a PhD]({{ site.url }}{{ site.baseurl }}/documents/guidance_for_applicants_applying_for_a_phd.pdf)
 
+
 ### Prospective Master's students
 There are two main Master's degree options:
 
@@ -38,10 +44,6 @@ MPhil students are typically self-funded, although there may be some funding opt
 If you are interested in applying directly to the lab, please send me a non-generic email describing your scientific interests and what you are looking for in an MPhil. It doesn't need to be long or formal, but it <i>should</i> read as though you wrote it yourself. Please attach a copy of your CV and (if possible) your academic transcript.
 
 If you are an incoming student on a taught MPhil, please feel free to get in touch to discuss project options! It might be possible to submit something tailored to your interests if I get early warning.
-
-
-### Applications for Postdoc positions
-If you think your interests are a good fit for the lab, feel free to [email me](ec491@cam.ac.uk) with an informal expression of interest. You should include a description of what you are working on in the moment, what you are looking for in a postdoc, and a copy of your CV. I might have funding available or be able to apply for some, or I could help you develop a project idea for an externally funded Fellowship application (e.g. EMBO, Marie-Curie, HFSP). There are various funding possibilities, but most of them involve planning well ahead. Therefore, it's best to contact me early on - don't feel as though you need to have your PhD papers out before getting in touch.
 
 
 ### Current University of Cambridge undergraduate students
