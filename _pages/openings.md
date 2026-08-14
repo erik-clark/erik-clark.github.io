@@ -48,9 +48,9 @@ If you are an incoming student on a taught MPhil, please feel free to get in tou
 ### Current University of Cambridge undergraduate students
 If you are an incoming [Part II Genetics](https://www.gen.cam.ac.uk/undergraduate/nst2-genetics-overview) or [Part III Systems Biology](https://www.gen.cam.ac.uk/undergraduate/nst-part-iii-systems-biology) student, feel free to contact me about project options. If you have specific interests and you give me early warning, it may be possible to organise a tailored project.
 
-If you are interested in a summer project, please see the [Vacation Research Opportunities](https://www.gen.cam.ac.uk/undergraduate/vacation-research) described here and get in touch with a description of your interests and a CV. Please note that we are not allowed to host self-funded interns, so you will need to plan ahead and apply for appropriate funding.
+If you are interested in a summer project, please see the [Vacation Research Opportunities](https://www.gen.cam.ac.uk/undergraduate/vacation-research) and get in touch with a description of your interests and a CV. Please note that we are not allowed to host self-funded interns, so you will need to plan ahead and apply for appropriate funding.
 
 ### Undergraduate students from elsewhere
-If you are interested in a summer project, please see the [Vacation Research Opportunities](https://www.gen.cam.ac.uk/undergraduate/vacation-research) described here and get in touch with a description of your interests and a CV. Please note that we are not allowed to host self-funded interns, so you will need to plan ahead and apply for appropriate funding.
+If you are interested in a summer project, please see the [Vacation Research Opportunities](https://www.gen.cam.ac.uk/undergraduate/vacation-research) and get in touch with a description of your interests and a CV. Please note that we are not allowed to host self-funded interns, so you will need to plan ahead and apply for appropriate funding.
 
 If your degree course has the option of a research placement abroad, please get in touch with a description of your interests, a CV, and the specific details of the scheme.
