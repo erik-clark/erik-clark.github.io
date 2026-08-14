@@ -21,10 +21,7 @@ Jump to [current lab members](#team), [lab alumni](#lab_alumni), or [former proj
   <h4>{{ member.name }}</h4>
   <i>{{ member.role }}</i>
   <br>{{ member.info }}
-  <br>contact: <{{ member.email }}>
-  {% if member.google_scholar %} [Google Scholar]({{ member.google_scholar}}) {% endif %}
-  {% if member.orcid %} [ORCiD]({{ member.orcid }}) {% endif %}
-  {% if member.bluesky %} [BlueSky]({{ member.bluesky }}) {% endif %}
+  <br>contact: <{{ member.email }}> {% if member.google_scholar %} [Google Scholar]({{ member.google_scholar}}) {% endif %} {% if member.orcid %} [ORCiD]({{ member.orcid }}) {% endif %} {% if member.bluesky %} [BlueSky]({{ member.bluesky }}) {% endif %}
 </div>
 
 {% endfor %}
