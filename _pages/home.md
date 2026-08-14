@@ -12,7 +12,7 @@ We are a research group at the [Department of Genetics, University of Cambridge
 We are interested in how gene regulatory systems robustly pattern animal embryos. We are also interested in how these systems have been shaped by evolution and how they influence evolution in return.
 
 
-To understand these systems, we combine advanced microscopy, genetic experiments, and computational modelling. Our workhorse species is the fruit fly <i>Drosophila melanogaster</i> because of its iconic status and powerful genetics. We also have other insect species in the lab: various flies and the beetle <i>Tribolium castaneum</i>.
+Our research approach combines advanced microscopy, genetic experiments, and computational modelling. Our workhorse species is the fruit fly <i>Drosophila melanogaster</i> because of its iconic status, community resources and powerful genetics. We also have other insect species in the lab: various flies and the beetle <i>Tribolium castaneum</i>.
 
 
 Our research is funded by the Wellcome Trust, UKRI BBSRC, the Leverhulme Trust, and the Cambridge Trust.
