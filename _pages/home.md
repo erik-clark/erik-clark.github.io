@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Department of Genetics, University of Cambridge](https://www.gen.cam.ac.uk/). 
+We are a research group at the Department of Genetics, University of Cambridge. 
 
 
 We are interested in how gene regulatory systems robustly pattern animal embryos. We are also interested in how these systems have been shaped by evolution and how they influence evolution in return.
