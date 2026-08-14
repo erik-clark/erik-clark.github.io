@@ -11,7 +11,7 @@ We are a research group at the [Department of Genetics, University of Cambridge
 We have two overarching goals: first, **to ?**. Second, **to ?**. 
 To achieve these goals, we . We want to . 
 
-Our research is funded by the Wellcome Trust, UKRI BBSRC, and the Leverhulme Trust.
+Our research is funded by the Wellcome Trust, UKRI BBSRC, the Leverhulme Trust, and the Cambridge Trust.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
