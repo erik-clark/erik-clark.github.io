@@ -10,7 +10,7 @@
 - title: title 2
   image: image.png
   description: Description goes here
-  authors:     Author 1, Author 2, Author 3
+  authors: Author 1, Author 2, Author 3
   link:
     url: url
     display: reference
