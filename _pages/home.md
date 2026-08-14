@@ -18,7 +18,7 @@ To understand these systems, we combine advanced microscopy, genetic experiments
 Our research is funded by the Wellcome Trust, UKRI BBSRC, the Leverhulme Trust, and the Cambridge Trust.
 
 
-**We are curretly looking for new PhD students, Postdocs, and MPhil students to [join the team!](/vacancies)**
+**[Join the team!](/vacancies)**
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
