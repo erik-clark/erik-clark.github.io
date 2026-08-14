@@ -11,6 +11,8 @@ We are a research group at the [Department of Genetics, University of Cambridge
 We have two overarching goals: first, **to ?**. Second, **to ?**. 
 To achieve these goals, we . We want to . 
 
+Our research is funded by the Wellcome Trust, UKRI BBSRC, and the Leverhulme Trust.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -60,10 +62,14 @@ We are currently.
 **We are looking for new PhD students, Postdocs, and MPhil students to [join the team!](/vacancies)**
 
 
-<figure class="fifth">
+<figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge.jpg" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/genetics.png" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome.png" style="width: 150px">
+</figure>
+
+<figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bbsrc.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/leverhulme.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge_trust.svg" style="width: 100px">
 </figure>
