@@ -41,5 +41,5 @@
 - name: This could be you!
   photo: silhouette.jpg
   role: Newest member of the team
-  info: See [lab openings]({{ site.url }}{{ site.baseurl }}/vacancies) for more info.
+  info: See [lab openings](/vacancies) for more info.
   email: ec491@cam.ac.uk
