@@ -8,15 +8,15 @@ permalink: /vacancies
 
 # Opportunities
 
-Please feel free to [contact me](ec491@cam.ac.uk) if you would like to discuss future project ideas and funding opportunities. 
+Please feel free to [contact me](ec491@cam.ac.uk) if you would like to discuss future project ideas and funding opportunities.
 
 
 ### Applications for Postdoc positions
-If you think your interests are a good fit for the lab, feel free to [email me](ec491@cam.ac.uk) with an informal expression of interest. You should include a description of what you are working on in the moment, what you are looking for in a postdoc, and a copy of your CV. I might have funding available or be able to apply for some, or I could help you develop a project idea for an externally funded Fellowship application (e.g. EMBO, Marie-Curie, HFSP). There are various funding possibilities, but most of them involve planning well ahead. Therefore, it's best to contact me early on -- don't feel as though you need to have your PhD papers out before getting in touch.
+If you think your interests are a good fit for the lab, feel free to [email me](ec491@cam.ac.uk) with an informal expression of interest. You should include a description of what you are working on in the moment, what you are looking for in a postdoc, and a copy of your CV. I might have funding available or be able to apply for some, or I could help you develop a project idea for an externally funded Fellowship application (e.g. [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/), [Marie-Curie](https://marie-sklodowska-curie-actions.ec.europa.eu/), [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)). There are various funding possibilities, but most of them involve planning well ahead. Therefore, it's best to contact me early on -- don't feel as though you need to have your PhD papers out before getting in touch.
 
 
 ### Prospective PhD students
-We are currently recruiting PhD applicants for October 2027 entry. If you are interested in applying, please send me a non-generic email describing your scientific interests and what you are looking for in a PhD. It doesn't need to be long or formal, but it <i>should</i> read as though you wrote it yourself. Please attach a copy of your CV and (if possible) your academic transcript.
+<b>We are currently recruiting PhD applicants for October 2027 entry.</b> If you are interested in applying, please send me a non-generic email describing your scientific interests and what you are looking for in a PhD. It doesn't need to be long or formal, but it <i>should</i> read as though you wrote it yourself. Please attach a copy of your CV and (if possible) your academic transcript.
 
 Note that funding competition deadlines are very early (typically December 2026, and even earlier for certain competitions such as US Gates) and applications typically involve writing a research proposal as well as a personal statement. It is advisable to start preparing as early as possible!
 
