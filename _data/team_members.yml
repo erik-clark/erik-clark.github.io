@@ -2,7 +2,9 @@
   photo: erik.jpeg
   role: Group Leader
   info: I grew up in London and studied Biological Sciences at Oxford, where I became interested in evo-devo and anterior-posterior patterning. After a computational MSc at Imperial, I did my PhD in the Cambridge Department of Zoology with Michael Akam, studying <i>Drosophila</i> pair-rule gene regulation. As a postdoc I continued to work on <i>Drosophila</i> segmentation and its evolution, funded by a Junior Research Fellowship from Trinity College Cambridge and an EMBO postdoctoral fellowship hosted in Angela DePace's lab in Harvard Medical School. In 2023 I was awarded a Career Development Award from the Wellcome Trust, enabling me to set up my research group in the Cambridge Department of Genetics. Alongside research I teach developmental biology and mathematical modelling for undergraduate and MPhil courses. Outside of the lab, most of my time is spent with my kids. When they're sleeping, I enjoy reading, history, and games.
-  email: ec491@cam.ac.uk  <a href="https://scholar.google.com/citations?user=2mHLASQAAAAJ&hl=en">Google Scholar</a> <a href="https://orcid.org/0000-0002-5588-796X">ORCiD</a>
+  email: ec491@cam.ac.uk
+  google_scholar: https://scholar.google.com/citations?user=2mHLASQAAAAJ&hl=en
+  orcid: https://orcid.org/0000-0002-5588-796X">ORCiD
 
 - name: Margherita Battistara
   photo: margherita.jpg
@@ -20,7 +22,9 @@
   photo: james.jpeg
   role: Leverhulme Trust Early Career Fellow
   info: I grew up in Moray and completed my undergraduate degree in Biology and Mathematics at the University of St Andrews in 2020. Here I fell in love with segmentation and evo-devo, and in 2020 I joined Berta Verd’s group at the University of Oxford to study somitogenesis in the Lake Malawi cichlids <i>Astatotilapia calliptera</i> and <i>Rhamphochromis</i> sp. ‘chilingali’. In 2025 I joined the Clark Lab, where I am using a combination of mathematical modelling and microscopy to study the evolution of robust gap gene patterning in Diptera. Outside of the lab I’m a keen lepidopterist, birdwatcher, and hillwalker.
-  email: jh2046@cam.ac.uk <a href="https://scholar.google.com/citations?user=U_HrlkQAAAAJ&hl=en">Google Scholar</a> <a href="https://bsky.app/profile/jamesehammond.bsky.social">BlueSky</a>
+  email: jh2046@cam.ac.uk 
+  google_scholar: https://scholar.google.com/citations?user=U_HrlkQAAAAJ&hl=en
+  BlueSky: https://bsky.app/profile/jamesehammond.bsky.social
   
 - name: Tom Pettini
   photo: tom.jpg
