@@ -57,13 +57,13 @@ To achieve these goals, we . We want to .
 
 We are currently.
 
-**We are looking for new PhD students, Postdocs, and MPhil students to [join the team](/vacancies)!**
+**We are looking for new PhD students, Postdocs, and MPhil students to [join the team!](/vacancies)**
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge.jpg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/genetics.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bbsrc.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/leverhulme.jpg" style="width: 100px">
 </figure>
