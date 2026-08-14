@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master's students to [join the team!]({{ site.url }}{{ site.baseurl }}/vacancies)**
 
 
-Jump to [current lab members](#team), [lab alumni](#lab_alumni), or [project students](#undergrad_alumni).
+Jump to [current lab members](#team), [lab alumni](#lab_alumni), or [former project students](#undergrad_alumni).
 
 <h2 id="team">Team</h2>
 {% for member in site.data.team_members %}
