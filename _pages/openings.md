@@ -12,7 +12,7 @@ Please feel free to [contact me](mailto:ec491@cam.ac.uk) if you would like to di
 
 
 ### Applications for Postdoc positions
-If you think your interests are a good fit for the lab, feel free to email me with an informal expression of interest. You should include a description of what you are working on in the moment, what you are looking for in a postdoc, and a copy of your CV. I might have funding available or be able to apply for some, or I could help you develop a project idea for an externally funded Fellowship application (e.g. [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/), [Marie-Curie](https://marie-sklodowska-curie-actions.ec.europa.eu/), [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)). There are various funding possibilities, but most of them involve planning well ahead. Therefore, it's best to contact me early on -- don't feel as though you need to have your PhD papers out before getting in touch.
+If you think your interests are a good fit for the lab, feel free to email me with an informal expression of interest. You should include a description of what you are working on at the moment, ideas about what you are looking for in a postdoc, and a copy of your CV. I might have funding available or be able to apply for some, or I could help you develop a project idea for an externally funded Fellowship application (e.g. [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/), [Marie-Curie](https://marie-sklodowska-curie-actions.ec.europa.eu/), [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)). There are various funding possibilities, but most of them involve planning well ahead. Therefore, it's best to contact me early on -- don't feel as though you need to have your PhD papers published before getting in touch.
 
 
 ### Prospective PhD students
@@ -36,7 +36,7 @@ There are two main Master's degree options:
 
 [MPhil in Biological Science (Genetics) by thesis](https://www.postgraduate.study.cam.ac.uk/courses/directory/blgempmbs): this is a 1 year research Master's where you apply directly to the lab and spend all year with us. A research proposal is not required as part of the application.
 
-[MPhil in Biological Sciences (Developmental Biology) by advanced study](https://www.postgraduate.study.cam.ac.uk/courses/directory/blblmpdby): this is a 1 year taught Master's where you apply to the course and pick a host lab after you arrive. You still spend a full year in the lab but do a smaller in scope research project alongside lectures and coursework.
+[MPhil in Biological Sciences (Developmental Biology) by advanced study](https://www.postgraduate.study.cam.ac.uk/courses/directory/blblmpdby): this is a 1 year taught Master's where you apply to the course and pick a host lab after you arrive. You still spend a full year in the lab but do a smaller scope research project alongside lectures and coursework.
 
 MPhil students are typically self-funded, although there may be some funding options you can apply for. These will have early deadlines, similar to PhD applications. See the information here: [Postgraduate Study at the University of Cambridge](https://www.postgraduate.study.cam.ac.uk/)
 
