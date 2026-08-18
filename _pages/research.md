@@ -16,7 +16,7 @@ Our research combines advanced microscopy, genetic experiments, and computationa
 
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: left" />
-  <h3>Gap gene scaling in <i>Drosophila</i></h3>
+  <h4>Gap gene scaling in <i>Drosophila</i></h4>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
@@ -24,17 +24,17 @@ Our research combines advanced microscopy, genetic experiments, and computationa
 <hr>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: right" />
-<h3>Pair-rule gene regulation in <i>Drosophila</i></h3>
+<h4>Pair-rule gene regulation in <i>Drosophila</i></h4>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <hr>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: left" />
-<h3>Multiplexed imaging and quantification of gene expression in single cells</h3>
+<h4>Multiplexed imaging and quantification of gene expression in single cells</h4>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <hr>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: right" />
-<h3>Evolution of segmentation networks across insects</h3>
+<h4>Evolution of segmentation networks across insects</h4>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
