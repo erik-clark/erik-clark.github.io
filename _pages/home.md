@@ -28,7 +28,6 @@ Our research is funded by the Wellcome Trust, UKRI BBSRC, the Leverhulme Trust, 
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
