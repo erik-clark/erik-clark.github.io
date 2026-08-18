@@ -14,16 +14,16 @@ Our research combines advanced microscopy, genetic experiments, and computationa
 
 <hr>
 
-<h2>Gap gene scaling in <i>Drosophila</i></h2>
+<h3>Gap gene scaling in <i>Drosophila</i></h2>
 
 <hr>
 
-<h2>Pair-rule gene regulation in <i>Drosophila</i></h2>
+<h3>Pair-rule gene regulation in <i>Drosophila</i></h2>
 
 <hr>
 
-<h2>Multiplexed imaging and quantification of gene expression in single cells</h2>
+<h3>Multiplexed imaging and quantification of gene expression in single cells</h2>
 
 <hr>
 
-<h2>Evolution of segmentation networks across insects</h2>
+<h3>Evolution of segmentation networks across insects</h2>
