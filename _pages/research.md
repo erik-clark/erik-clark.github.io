@@ -34,7 +34,7 @@ Segments in <i>Drosophila</i> and other arthropods are patterned by the pair-rul
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: left" />
 <h4>Imaging methods development</h4>
-Image-based approaches in developmental biology have traditionally been limited by the difficulty of visualising more than 2-3 gene products at once. Using a combination of multiplexed labelling and white light laser confocal microscopy, we are optimising a flexible and reliable 10-channel imaging strategy for use with arbitrary combinations of mRNAs and proteins. We are also exploring FLIM and Stokes-Shift options to expand the number of imaging channels into the teens. Alongside this, we are developing computational pipelines to extract dynamical information from the subcellular localisation of individual gene products and to meaningfully compare expression patterns across multiple embryos.
+Image-based approaches in developmental biology have traditionally been limited by the difficulty of visualising more than 2-3 gene products at once. Using a combination of multiplexed labelling and white light laser confocal microscopy, we are optimising a flexible and reliable 10-channel imaging strategy for use with arbitrary combinations of mRNAs and proteins. We are also exploring FLIM and Stokes-Shift options to expand our number of imaging channels into the teens. Alongside this, we are developing computational pipelines to extract dynamical information from the subcellular localisation of individual gene products and to meaningfully compare expression patterns across multiple embryos.
 </div>
 
 <hr>
@@ -42,5 +42,5 @@ Image-based approaches in developmental biology have traditionally been limited 
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: right" />
 <h4>Evolution of segmentation networks across insects</h4>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The simultaneous mode of segmentation found in <i>Drosophila</i> is derived from an ancestral sequential mode of segmentation based around a clock-and-wavefront mechanism. We are broadly interested in the evolutionary transition from sequential to simultaneous segmentation, which has occurred several times independently within holometabolous insects. We have started to apply our multiplexed imaging methods to insect evo-devo models such as the red flour beetle <i>Tribolium castaneum</i> and various dipterans, to investigate patterns of conservation and divergence in segmentation gene regulation across various evolutionary scales.  
 </div>
