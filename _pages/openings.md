@@ -18,7 +18,7 @@ I might have funding available or be able to apply for some, or I could help you
 
 
 ### Prospective PhD students
-<b>We are currently recruiting PhD applicants for October 2027 entry.</b> If you are interested in applying, please send me an email describing your scientific interests and what you are looking for in a PhD. It doesn't need to be long or formal, but it <i>should</i> read as though you wrote it yourself. Please attach a copy of your CV and (if possible) your academic transcript.
+<b>We are currently recruiting PhD applicants for October 2027 entry.</b> If you are interested in applying, please send me an email describing your scientific interests and what you are looking for in a PhD. It doesn't need to be long or formal, but it <i>should</i> be written in your own words. Please attach a copy of your CV and (if possible) your academic transcript.
 
 Note that funding competition deadlines are very early (typically December 2026, and even earlier for certain competitions such as US Gates) and applications typically involve writing a research proposal as well as a personal statement. It is advisable to start preparing as early as possible!
 
@@ -44,7 +44,7 @@ There are two main Master's degree options:
 
 MPhil students are typically self-funded, although there may be some funding options you can apply for. These will have early deadlines, similar to PhD applications. See the information here: [Postgraduate Study at the University of Cambridge](https://www.postgraduate.study.cam.ac.uk/)
 
-If you are interested in applying directly to the lab, please send me an email describing your scientific interests and what you are looking for in an MPhil. It doesn't need to be long or formal, but it <i>should</i> read as though you wrote it yourself. Please attach a copy of your CV and (if possible) your academic transcript.
+If you are interested in applying directly to the lab, please send me an email describing your scientific interests and what you are looking for in an MPhil. It doesn't need to be long or formal, but it <i>should</i> be written in your own words. Please attach a copy of your CV and (if possible) your academic transcript.
 
 If you are an incoming student on a taught MPhil, please feel free to get in touch to discuss project options! It might be possible to submit something tailored to your interests if I get early warning.
 
