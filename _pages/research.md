@@ -17,7 +17,7 @@ Our research combines advanced microscopy, genetic experiments, and computationa
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: left" />
   <h4>Gap gene scaling in <i>Drosophila</i></h4>
-The gap genes regionalise and proportion the early embryo, downstream of maternal gradients. We are interested in the robust scaling behaviour of the gap gene pattern, which is hard to explain as a local response to maternal inputs. Instead, we hypothesise that scaling is an embryo-level response which relies on the diffusion and cross-regulation of zygotic gene products. To understand the mechanistic basis of this response, we are using multiplexed confocal microscopy and computational image analysis to quantify zygotic gene expression patterns in mutant and size-perturbed embryos. In collaboration with [Tom Hiscock's group at the University of Aberdeen](https://twhiscock.github.io/), we are also modelling the dynamics of the patterning system using a Reaction-Diffusion framework.
+The gap genes regionalise and proportion the early embryo, downstream of maternal gradients. We are interested in the robust scaling behaviour of the gap gene pattern, which is hard to explain as a local response to maternal inputs. Instead, we hypothesise that scaling is an embryo-level response which relies on the diffusion and cross-regulation of zygotic gene products. To understand the mechanistic basis of this response, we are using multiplexed confocal microscopy and computational image analysis to quantify zygotic gene expression patterns in mutant and size-perturbed embryos. In collaboration with [Tom Hiscock's group at the University of Aberdeen](https://twhiscock.github.io/), we are also modelling the dynamics of the patterning system within a Reaction-Diffusion framework.
 </div>
 
 
@@ -26,7 +26,7 @@ The gap genes regionalise and proportion the early embryo, downstream of materna
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: right" />
 <h4>Pair-rule gene regulation in <i>Drosophila</i></h4>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Segments in <i>Drosophila</i> and other arthropods are patterned by the pair-rule genes, which are expressed in series of precisely phased stripes. We are interested in understanding how these stripes are regulated: how individual genes respond to levels and combinations of transcriptional inputs; how enhancers function singly and in combination; and how networks of cross-regulating genes dynamically refine patterns. We are investigating these questions using fixed / live; mutants; modelling
 </div>
 
 <hr>
