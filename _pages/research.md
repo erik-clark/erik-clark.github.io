@@ -26,7 +26,7 @@ The gap genes regionalise and proportion the early embryo, downstream of materna
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: right" />
 <h4>Pair-rule gene regulation in <i>Drosophila</i></h4>
-Segments in <i>Drosophila</i> and other arthropods are patterned by the pair-rule genes, which are expressed in series of precisely phased stripes. We are interested in understanding how these stripes are regulated: how individual genes respond to levels and combinations of transcriptional inputs; how enhancers function singly and in combination; and how networks of cross-regulating genes dynamically refine patterns. We are investigating these questions using fixed / live; mutants; modelling
+Segments in <i>Drosophila</i> and other arthropods are patterned by the pair-rule genes, which are expressed in series of precisely phased stripes. We are interested in understanding how these stripes are regulated: how individual genes respond to the levels and combinations of their transcriptional inputs; how enhancers function singly and in combination; and how networks of cross-regulating genes dynamically refine output patterns. We are investigating these questions using high-res multiplexed fixed imaging, MS2/PP7 and LlamaTag-based live imaging, computational image and data analysis pipelines, transgenic reporter genes and genetic perturbations. 
 </div>
 
 <hr>
