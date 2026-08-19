@@ -15,7 +15,7 @@ Our research combines advanced microscopy, genetic experiments, and computationa
 <hr>
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/gap_embryo.jpg" class="img-responsive" width="40%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/gap_embryo.jpg" class="img-responsive" width="35%" style="float: left" />
   <h4>Gap gene pattern scaling in <i>Drosophila</i></h4>
 The gap genes regionalise and proportion the early embryo, downstream of maternal gradients. We are interested in the robust scaling behaviour of the gap gene pattern, which is hard to explain as a local response to maternal inputs. Instead, we hypothesise that scaling is an embryo-level response which relies on the diffusion and cross-regulation of zygotic gene products. To understand the mechanistic basis of this response, we are using multiplexed confocal microscopy and computational image analysis to quantify zygotic gene expression patterns in mutant and size-perturbed embryos. In collaboration with [Tom Hiscock's group at the University of Aberdeen](https://twhiscock.github.io/), we are also modelling the dynamics of the patterning system within a Reaction-Diffusion framework.
 </div>
@@ -40,7 +40,7 @@ Image-based approaches in developmental biology have traditionally been limited 
 <hr>
 
 <div class="row">
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/tribolium.png" class="img-responsive" width="40%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/tribolium2.png" class="img-responsive" width="40%" style="float: right" />
 <h4>Evolution of segmentation networks across insects</h4>
 The simultaneous mode of segmentation found in <i>Drosophila</i> is derived from an ancestral sequential mode of segmentation based around a clock-and-wavefront mechanism. We are broadly interested in the evolutionary transition from sequential to simultaneous segmentation, which has occurred several times independently within holometabolous insects. We have started to apply our multiplexed imaging methods to insect evo-devo models such as the red flour beetle <i>Tribolium castaneum</i> and various dipterans, to investigate patterns of conservation and divergence in segmentation gene regulation across various evolutionary scales.  
 </div>
