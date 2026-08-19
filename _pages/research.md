@@ -16,7 +16,7 @@ Our research combines advanced microscopy, genetic experiments, and computationa
 
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: left" />
-  <h4>Gap gene scaling in <i>Drosophila</i></h4>
+  <h4>Gap gene pattern scaling in <i>Drosophila</i></h4>
 The gap genes regionalise and proportion the early embryo, downstream of maternal gradients. We are interested in the robust scaling behaviour of the gap gene pattern, which is hard to explain as a local response to maternal inputs. Instead, we hypothesise that scaling is an embryo-level response which relies on the diffusion and cross-regulation of zygotic gene products. To understand the mechanistic basis of this response, we are using multiplexed confocal microscopy and computational image analysis to quantify zygotic gene expression patterns in mutant and size-perturbed embryos. In collaboration with [Tom Hiscock's group at the University of Aberdeen](https://twhiscock.github.io/), we are also modelling the dynamics of the patterning system within a Reaction-Diffusion framework.
 </div>
 
@@ -33,8 +33,8 @@ Segments in <i>Drosophila</i> and other arthropods are patterned by the pair-rul
 
 <div class="row">
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" class="img-responsive" width="30%" style="float: left" />
-<h4>Multiplexed imaging and quantification of gene expression in single cells</h4>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h4>Imaging methods development</h4>
+Image-based approaches in developmental biology have traditionally been limited by the difficulty of visualising more than 2-3 gene products at once. Using a combination of multiplexed labelling and white light laser confocal microscopy, we are optimising a flexible and reliable 10-channel imaging strategy for use with arbitrary combinations of mRNAs and proteins. We are also exploring FLIM and Stokes-Shift options to expand the number of imaging channels into the teens. Alongside this, we are developing computational pipelines to extract dynamical information from the subcellular localisation of individual gene products and to meaningfully compare expression patterns across multiple embryos.
 </div>
 
 <hr>
