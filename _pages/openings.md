@@ -28,6 +28,8 @@ Please see the information on the pages below:
 
 [Cambridge Biosciences DTP PhD Programme](https://bbsrcdtp.lifesci.cam.ac.uk/)
 
+[Cambridge NERC DLA PhD Programme](https://nercdtp.esc.cam.ac.uk/nerc-creates-dla)
+
 [Postgraduate Study at the University of Cambridge](https://www.postgraduate.study.cam.ac.uk/)
 
 [General guidance for applying for a PhD]({{ site.url }}{{ site.baseurl }}/documents/guidance_for_applicants_applying_for_a_phd.pdf)
