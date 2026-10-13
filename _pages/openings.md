@@ -28,6 +28,8 @@ Please see the information on the pages below:
 
 [Cambridge Biosciences DTP PhD Programme](https://bbsrcdtp.lifesci.cam.ac.uk/)
 
+[**Available DTP project for October 2027: dipteran head patterning**](https://bbsrcdtp.lifesci.cam.ac.uk/project-reference-trg27-gen-ec1)
+
 [Cambridge NERC DLA PhD Programme](https://nercdtp.esc.cam.ac.uk/nerc-creates-dla)
 
 [Postgraduate Study at the University of Cambridge](https://www.postgraduate.study.cam.ac.uk/)
